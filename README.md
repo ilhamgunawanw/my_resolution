@@ -1,2 +1,2 @@
 # my_resolution
-Resolusi saya di 2020
+This is Gunawan's resolution in 2020
